@@ -11,8 +11,7 @@ public class Student {
     public double languageRating;
 
     public double mediumRating(double mathematicsRating1, double economicsRating2, double languageRating2) {
-        double mediumRathing = (mathematicsRating1 + economicsRating2 + languageRating2) / 3;
-        return mediumRathing;
+        return (mathematicsRating1 + economicsRating2 + languageRating2) / 3;
 
     }
 
