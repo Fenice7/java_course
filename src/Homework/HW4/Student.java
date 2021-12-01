@@ -64,7 +64,6 @@ class StudentTest {
         Student st3 = new Student("Sergey", "Solncev", 5, 5, 4.3, 5.5, 3.2);
 
         System.out.println("Средняя оценка студента " + st3.name + " " + st3.surname + " - " + st3.mediumRating(st3.mathematicsRating, st3.economicsRating, st3.languageRating));
-
     }
 
 

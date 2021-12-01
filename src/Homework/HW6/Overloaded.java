@@ -31,7 +31,7 @@ class OverloadedTest {
         System.out.println(object.summa(2));
         System.out.println(object.summa(2, 9));
         System.out.println(object.summa(2,5,1));
-        System.out.println(object.summa(2,5,1, 9));
+        System.out.println(object.summa(2,5,1,9));
     }
 
 }

@@ -1,6 +1,6 @@
 package Classwork.Lesson3;
 
-public class Lesson3 {
+public class Operators {
 
 
     public static void main(String[] args) {
