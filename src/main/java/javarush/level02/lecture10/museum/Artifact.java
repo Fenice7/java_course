@@ -1,4 +1,4 @@
-package javarush.level02.lecture10;
+package javarush.level02.lecture10.museum;
 
 public class Artifact {
 
