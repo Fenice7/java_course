@@ -1,4 +1,4 @@
-package training;
+package codeWars;
 
 import java.util.Locale;
 
