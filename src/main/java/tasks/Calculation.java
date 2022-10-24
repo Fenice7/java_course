@@ -1,4 +1,4 @@
-package programmingTasks.simplestArithmetic;
+package tasks;
 
 import java.util.Scanner;
 

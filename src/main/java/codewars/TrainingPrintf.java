@@ -1,4 +1,4 @@
-package codeWars;
+package codewars;
 
 import java.util.Locale;
 
